@@ -9,7 +9,18 @@
   },
   "dependencies": {
     "core-js": "^2.6.5",
-    "vue": "^2.6.10"
+    "material-icons": "^0.3.1",
+    "prism": "^4.1.2",
+    "prism-js": "^1.0.0",
+    "prism-react": "^1.0.2",
+    "prismjs": "^1.16.0",
+    "react": "^16.8.6",
+    "recompose": "^0.30.0",
+    "vue": "^2.6.10",
+    "vue-prism-component": "^1.1.1",
+    "vue-tailwind": "^0.1.27",
+    "vuesax": "^3.8.77",
+    "vuetify": "^1.5.16"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.8.0",
