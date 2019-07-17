@@ -6,12 +6,11 @@
 </template>
 <script>
 import Weather from "./components/Weather.vue";
-import W from "./components/HelloWorld.vue";
+
 export default {
   name: "app",
   components: {
-    Weather,
-    W
+    Weather
   }
 };
 </script>
